@@ -2,7 +2,7 @@
 Oct 24, 2022
 This is the lagendary game [ Rock - Paper - Scissor]
 
-Fixed June 6, 2023
+Fixed June 9, 2023
 
 The game start from line 95 and then the final score comparson starts from line 117.
 
